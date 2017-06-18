@@ -1,13 +1,32 @@
-Levantamento de Requisitos (Geral)
+﻿Levantamento de Requisitos (Geral)
 
 Introdução
 ** Resumo do que será a aplicação, e o que motivou sua criação.
 
+Este projeto tem o propósito de criar uma aplicação que permita ao usuário lançar de maneira fácil os nomes de filmes que quer assistir futuramente, evitando assim o problema de esquecer.
+A ideia inicial partiu de uma necessidade pessoal e do desejo de desenvolver habilidades na área de desenvolvimento de software.
+
+
 Objetivo
 ** O que se espera alcançar?
+
+Criar uma aplicação que permita armazenar uma lista de filmes.
+Desenvolver habilidade em desenvolvimento mobile.
+Atender a uma necessidade pessoal.                        
+
 
 Requisitos funcionais
 ** Caracteristicas da aplicação que são essenciais para seu funcionamento.
 
+Backup manual em nuvem (através de contas de e-mail).
+Permitir armazenar e manipular os dados. (Incluir, Excluir, Alterar, Pesquisar).
+
+
 Requisitos não funcionais
 ** Caracteristicas da aplicação que não interferem em seu funcionamento.
+
+Interface seja amigável e intuitiva.
+Linguagem de programação Java (Tecnologia Android).
+Interface de desenvolvimento Android Studio.
+Linguagem para base de dados SQL (Tecnologia SQLite).
+
